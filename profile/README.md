@@ -1,6 +1,6 @@
 <!-- ASense - Enhancing Developer's Workflows and Experience -->
 
-<img src="Icons/ASenseBanner.png" align="center" height="428" alt="ASense Banner">
+<img src="/../../blob/main/Icons/ASenseBanner.png" align="center" height="428" alt="ASense Banner">
 
 ## Introduction
 
@@ -14,30 +14,30 @@ For us, "safeguarding your digital experiences" is more than simply a catchphras
 
 We feel that the devotion and competence of our team members is the key to our success. Let us present the creative brains behind ASense:
 
-### <img src="Icons/Liker.png" align="center" height="40" alt="Liker's Avatar" style="border-radius: 50%;"> Liker - Founder
+### <img src="/../../blob/main/Icons/Liker.png" align="center" height="40" alt="Liker's Avatar" style="border-radius: 50%;"> Liker - Founder
 
 Liker's enthusiasm for providing seamless developer experiences has been the driving factor behind our team's success as the visionary behind ASense. Liker lays the groundwork for ASense's creative approach with an uncompromising dedication to quality.<br>
 <br>
 
-### <img src="Icons/Jeremy.png" align="center" height="40" alt="Jeremy's Avatar" style="border-radius: 50%;"> Jeremy - Top Board of Directors
+### <img src="/../../blob/main/Icons/Jeremy.png" align="center" height="40" alt="Jeremy's Avatar" style="border-radius: 50%;"> Jeremy - Top Board of Directors
 
 Jeremy provides our team with essential strategic thoughts and leadership. As a key member of our Board of Directors, his knowledge guides ASense to greater success and growth.
 <br>
 <br>
 
-### <img src="Icons/IceMinister.png" align="center" height="40" alt="IceMinister's Avatar" style="border-radius: 50%;"> IceMinister - Board of Directors
+### <img src="/../../blob/main/Icons/IceMinister.png" align="center" height="40" alt="IceMinister's Avatar" style="border-radius: 50%;"> IceMinister - Board of Directors
 
 IceMinister is an important member of our Board of Directors, with an outstanding eye for detail and a plethora of expertise. Their contributions will help shape ASense's future.
 <br>
 <br>
 
-### <img src="Icons/Unlimited.png" align="center" height="40" alt="Unlimited's Avatar" style="border-radius: 50%;"> Unlimited - Developer
+### <img src="/../../blob/main/Icons/Unlimited.png" align="center" height="40" alt="Unlimited's Avatar" style="border-radius: 50%;"> Unlimited - Developer
 
 Unlimited's coding prowess and innovative ideas have greatly aided in the development of our anti-exploit solutions. Their commitment to excellence guarantees that our products stay at the forefront of security.
 <br>
 <br>
 
-### <img src="Icons/TheFrenchTechMan.png" align="center" height="40" alt="TheFrenchTechMan's Avatar" style="border-radius: 50%;"> TheFrenchTechMan - Developer
+### <img src="/../../blob/main/Icons/TheFrenchTechMan.png" align="center" height="40" alt="TheFrenchTechMan's Avatar" style="border-radius: 50%;"> TheFrenchTechMan - Developer
 
 Because of their technical competence and problem-solving abilities, TheFrenchTechMan is an essential member of our development team. Our products reflect their dedication to developing efficient and dependable software.
 <br>
