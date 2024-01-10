@@ -8,7 +8,7 @@ ASense is a dynamic and imaginative team created in 2022 with the goal of improv
 
 | IceMinister                                                       | Liker                                                       | TheFrenchTechMan                                                       | Unlimited                                                       |
 |-------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------|
-| <img src="/../../blob/main/Icons/IceMinister.png" align="center" height="543"> | <img src="/../../blob/main/Icons/Liker.png" align="center" height="543"> | <img src="/../../blob/main/Icons/TheFrenchTechMan.png" align="center" height="543"> | <img src="/../../blob/main/Icons/Unlimited.png" align="center" height="543"> |
+| <img src="/../../blob/main/Icons/IceMinister.png" align="center" height="543" width="543"> | <img src="/../../blob/main/Icons/Liker.png" align="center" height="543" width="543"> | <img src="/../../blob/main/Icons/TheFrenchTechMan.png" align="center" height="543" width="543"> | <img src="/../../blob/main/Icons/Unlimited.png" align="center" height="543" width="543"> |
 |                                                                   |                                                             |                                                                        |                                                                 |
 
 ## Stay Connected
